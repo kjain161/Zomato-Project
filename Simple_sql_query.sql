@@ -1,1 +1,2 @@
 Select Now();
+Select Date();
